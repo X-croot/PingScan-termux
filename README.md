@@ -16,7 +16,8 @@ PingScan v1.0 is a powerful network scanning tool designed to quickly and effici
 
 - **System Administrators:** Gain insights into connected devices’ OS and vendor information to assist with security and inventory management.
 - **Developers & Pentesters:** Ideal for anyone learning network programming, security, or system administration looking for a practical scanning tool.
-<img width="904" height="426" alt="resim" src="https://github.com/user-attachments/assets/876ee4b2-562e-4675-8633-9492e5499107" />
+<img width="904" height="426" alt="resim" src="https://github.com/user-attachments/assets/a87e7c99-382d-4911-8eaa-feac2e6f0e7c" />
+
 
 ## How It Works
 
