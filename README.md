@@ -5,7 +5,7 @@ PingScan v1.0 is a powerful network scanning tool designed to quickly and effici
 
 ## Root-Free Operation
   PingScan utilizes the system's native `ping` command directly for network scanning. This means it does not require any root access.
-![ddd](https://i.ytimg.com/vi/C5vTTjPAurU/hqdefault.jpg)
+  
 ## Key Features
 
 - **Fast Scanning:** Utilizes multithreading to scan hundreds of IP addresses concurrently, significantly speeding up the scanning process.
